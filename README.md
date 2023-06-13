@@ -30,11 +30,8 @@ We welcome contributions from the community to enhance VirtualLandX. To contribu
 4. Push to the branch: `git push origin feature/your-feature-name`
 5. Open a pull request.
 
-### License
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
 Join VirtualLandX today and embark on an incredible journey of virtual ownership, creativity, and connection within the metaverse.
 
-For more information, visit our website [www.virtuallandx.com](https://www.virtuallandx.com) or contact us at info@virtuallandx.com.
